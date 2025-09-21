@@ -1,0 +1,16 @@
+.restart-btn {
+  background: #21a1f3;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-size: 1.1em;
+  cursor: pointer;
+  margin: 18px auto 0 auto;
+  box-shadow: 0 2px 8px rgba(60,60,60,0.08);
+  transition: background 0.2s;
+  display: block;
+}
+.restart-btn:hover {
+  background: #1a7fc1;
+}

@@ -1,0 +1,16 @@
+.scoreboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  font-size: 1.1em;
+  background: rgba(255,255,255,0.7);
+  border-radius: 12px;
+  padding: 8px 18px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 8px rgba(60,60,60,0.08);
+}
+.scoreboard span {
+  color: #357a38;
+  font-weight: 500;
+}
